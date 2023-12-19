@@ -165,7 +165,7 @@ To run this project, ensure the following prerequisites are met:
 - To sign up to the app send a post request to /signup:
 
     ```
-    http://<minikube-serivce-frrtonend-service>/signup
+    http://<minikube-serivce-frontend-service>/signup
     ```
 
 10. Signin to the app:
@@ -173,9 +173,9 @@ To run this project, ensure the following prerequisites are met:
 - Once you receive a message that the user was successfully created sent a request to /login:
 
     ```
-    http://<minikube-serivce-frrtonend-service>/login
+    http://<minikube-serivce-frontend-service>/login
     ```
-    
+
 11. Add tasks to your app.
 
 ## Cleaning Up
